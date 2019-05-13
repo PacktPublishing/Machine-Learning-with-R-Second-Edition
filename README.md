@@ -36,32 +36,13 @@ Steve Graves, 101.4, TRUE, MALE, A
 ```
 
 **Following is what you need for this book:**
-This book is intended for anybody hoping to use data for action. Perhaps you already know a bit about machine learning, but have never used R; or perhaps you know a little about R, but are new to machine learning. In any case, this book will get you up and running quickly. It would be helpful to have a bit of familiarity with basic math and programming concepts, but no prior experience is required. All you
-need is curiosity.
+This book is intended for anybody hoping to use data for action. Perhaps you already know a bit about machine learning, but have never used R; or perhaps you know a little about R, but are new to machine learning. In any case, this book will get you up and running quickly. It would be helpful to have a bit of familiarity with basic math and programming concepts, but no prior experience is required. All you need is curiosity.
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-).
-### Software and Hardware List
-| Chapter | Software required | OS required |
-| -------- | ------------------------------------ | ----------------------------------- |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it]().
-
-### Related products
 ## Get to Know the Author
 **Brett Lantz**
  has spent more than 10 years using innovative data methods to understand human behavior. A trained sociologist, he was frst enchanted by machine learning while studying a large database of teenagers' social networking website profles. Since then, Brett has worked on interdisciplinary studies of cellular telephone calls, medical billing data, and philanthropic activity, among others. When not spending time with family, following college sports, or being entertained by his dachshunds, he maintains a website dedicated to sharing knowledge about the search for insight in data.
 
-## Other books by the authors
+## Other books by the author
 [Machine Learning with R](https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-r?utm_source=github&utm_medium=repository&utm_campaign=9781782162148)
 
 [Machine Learning with R - Second Edition](https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-r-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781784393908)
